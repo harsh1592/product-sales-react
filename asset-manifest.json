@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/product-sales-react/static/css/main.49460ba0.css",
+    "main.js": "/product-sales-react/static/js/main.3a2ca910.js",
+    "static/js/787.e169783f.chunk.js": "/product-sales-react/static/js/787.e169783f.chunk.js",
+    "static/media/logo.svg": "/product-sales-react/static/media/logo.5935081bd899ecfe02395699e768f84e.svg",
+    "index.html": "/product-sales-react/index.html",
+    "main.49460ba0.css.map": "/product-sales-react/static/css/main.49460ba0.css.map",
+    "main.3a2ca910.js.map": "/product-sales-react/static/js/main.3a2ca910.js.map",
+    "787.e169783f.chunk.js.map": "/product-sales-react/static/js/787.e169783f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49460ba0.css",
+    "static/js/main.3a2ca910.js"
+  ]
+}
